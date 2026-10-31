@@ -1,0 +1,801 @@
+Employee_ID,First_Name,Last_Name,Department,Region,Manager_ID,Hire_Date,Annual_Salary
+EMP-0001,Daniel,Figueroa,Engineering,APAC,MGR-008,2022-09-20,58000.0
+EMP-0002,Jeffrey,Doyle,Sales,North America,MGR-048,2021-01-15,80000.0
+EMP-0003,Joy,Gardner,Sales,EMEA,MGR-016,2022-11-17,79000.0
+EMP-0004,Robert,Johnson,Support,North America,MGR-009,2022-07-06,90000.0
+EMP-0005,Jesse,Guzman,Sales,APAC,MGR-007,2020-12-05,66000.0
+EMP-0006,James,Santos,Sales,APAC,MGR-048,2022-05-21,67000.0
+EMP-0007,Robert,Cole,Sales,APAC,MGR-006,2022-04-26,36000.0
+EMP-0008,Lisa,Smith,Sales,APAC,MGR-028,2021-03-08,89000.0
+EMP-0009,Erik,Henderson,Support,North America,MGR-002,2023-06-05,69000.0
+EMP-0010,Eric,Bernard,Engineering,North America,MGR-014,2021-03-07,64000.0
+EMP-0011,Curtis,James,Engineering,North America,MGR-033,2021-06-06,66000.0
+EMP-0012,Melanie,Munoz,Engineering,APAC,MGR-002,2021-07-11,84000.0
+EMP-0013,Bradley,Stevens,Engineering,APAC,MGR-013,2023-06-07,77000.0
+EMP-0014,Teresa,Gray,Sales,APAC,MGR-042,2020-07-12,67000.0
+EMP-0015,Kelly,Fuller,Sales,APAC,MGR-035,2022-05-07,66000.0
+EMP-0016,Michelle,Ray,Sales,EMEA,MGR-015,2023-10-07,89000.0
+EMP-0017,Chad,Stanley,Support,EMEA,MGR-038,2022-12-30,60000.0
+EMP-0018,Keith,Miller,Engineering,EMEA,MGR-001,2023-04-15,73000.0
+EMP-0019,Michelle,James,Sales,North America,MGR-045,2020-12-27,72000.0
+EMP-0020,Cynthia,Diaz,Support,EMEA,MGR-022,2021-12-05,81000.0
+EMP-0021,Michael,Santiago,Sales,EMEA,MGR-010,2021-07-29,117000.0
+EMP-0022,Sharon,Wong,Sales,North America,MGR-049,2022-12-26,93000.0
+EMP-0023,Cynthia,Ferguson,HR,EMEA,MGR-007,2022-08-04,78000.0
+EMP-0024,Frank,Gray,Marketing,North America,MGR-025,2021-01-15,88000.0
+EMP-0025,Danielle,Hawkins,Sales,North America,MGR-023,2023-12-08,60000.0
+EMP-0026,Mark,Tate,Sales,EMEA,MGR-039,2022-11-29,51000.0
+EMP-0027,Jeremy,Johnson,Marketing,EMEA,MGR-003,2020-03-27,55000.0
+EMP-0028,Richard,Jones,Engineering,APAC,MGR-030,2021-05-05,62000.0
+EMP-0029,Sherri,Walter,Sales,APAC,MGR-008,2023-11-19,84000.0
+EMP-0030,Jason,Porter,Support,EMEA,MGR-006,2021-05-03,88000.0
+EMP-0031,Robin,Ellis,Support,APAC,MGR-019,2023-10-06,72000.0
+EMP-0032,Donald,Mcgee,Sales,APAC,MGR-040,2021-02-15,66000.0
+EMP-0033,Jose,Richards,Marketing,EMEA,MGR-037,2022-04-17,52000.0
+EMP-0034,Brandy,Cox,Sales,North America,MGR-046,2023-10-26,91000.0
+EMP-0035,William,Davis,Sales,North America,MGR-003,2020-08-02,93000.0
+EMP-0036,Michelle,Hernandez,Support,APAC,MGR-015,2020-03-14,62000.0
+EMP-0037,Laura,Henderson,Marketing,EMEA,MGR-006,2020-09-05,59000.0
+EMP-0038,Paul,Carlson,Support,North America,MGR-007,2020-04-08,74000.0
+EMP-0039,Allison,Maddox,Support,EMEA,MGR-018,2021-12-28,97000.0
+EMP-0040,Sherri,Frazier,Engineering,EMEA,MGR-041,2023-08-30,80000.0
+EMP-0041,Erin,Herrera,Engineering,EMEA,MGR-011,2020-06-26,69000.0
+EMP-0042,Kayla,Peterson,Sales,EMEA,MGR-023,2021-02-18,74000.0
+EMP-0043,Ryan,Chavez,Sales,North America,MGR-043,2021-03-31,54000.0
+EMP-0044,Nancy,Baker,Engineering,EMEA,MGR-045,2023-01-26,91000.0
+EMP-0045,Kathleen,Romero,Marketing,APAC,MGR-042,2022-02-16,67000.0
+EMP-0046,Monica,Evans,Support,North America,MGR-039,2020-06-14,53000.0
+EMP-0047,William,Gonzalez,Sales,APAC,MGR-011,2022-09-19,72000.0
+EMP-0048,Kathryn,Ryan,Sales,APAC,MGR-047,2021-08-03,69000.0
+EMP-0049,Sandra,Sellers,Marketing,North America,MGR-011,2023-04-24,83000.0
+EMP-0050,Mario,Smith,Marketing,EMEA,MGR-025,2022-07-19,92000.0
+EMP-0051,Michael,Galloway,Marketing,EMEA,MGR-041,2023-12-14,96000.0
+EMP-0052,Kyle,Brown,Marketing,APAC,MGR-036,2023-06-07,78000.0
+EMP-0053,Ashley,Miller,Sales,North America,MGR-044,2023-09-25,71000.0
+EMP-0054,Todd,Jones,Engineering,EMEA,MGR-050,2023-02-10,69000.0
+EMP-0055,Amanda,Martinez,Marketing,North America,MGR-015,2023-03-27,35000.0
+EMP-0056,Thomas,Pierce,Sales,North America,MGR-021,2022-10-21,80000.0
+EMP-0057,Allison,Obrien,Sales,EMEA,MGR-018,2021-02-15,82000.0
+EMP-0058,Sarah,Campos,Sales,North America,MGR-014,2020-11-25,73000.0
+EMP-0059,James,Collins,Engineering,APAC,MGR-046,2022-12-07,61000.0
+EMP-0060,Debra,Kim,HR,EMEA,MGR-014,2022-11-09,96000.0
+EMP-0061,Shannon,Wright,HR,APAC,MGR-032,2022-03-15,75000.0
+EMP-0062,Matthew,Chapman,Sales,EMEA,MGR-042,2020-04-09,50000.0
+EMP-0063,Brianna,Smith,Sales,EMEA,MGR-010,2020-12-23,77000.0
+EMP-0064,Crystal,Perez,Engineering,EMEA,MGR-009,2023-01-04,69000.0
+EMP-0065,Anthony,Rivera,Sales,North America,MGR-048,2023-11-07,82000.0
+EMP-0066,John,Caldwell,Sales,APAC,MGR-035,2022-03-09,71000.0
+EMP-0067,Amber,Cummings,Sales,EMEA,MGR-048,2020-11-28,80000.0
+EMP-0068,Ashley,Kennedy,Sales,APAC,MGR-028,2023-10-02,75000.0
+EMP-0069,Thomas,Russell,Support,APAC,MGR-026,2023-05-03,63000.0
+EMP-0070,Collin,Jordan,Support,EMEA,MGR-015,2020-05-26,87000.0
+EMP-0071,Robert,Shields,Engineering,North America,MGR-033,2021-10-20,96000.0
+EMP-0072,Emily,Joyce,Engineering,EMEA,MGR-006,2020-03-25,96000.0
+EMP-0073,Bruce,Chandler,Sales,North America,MGR-008,2020-06-01,68000.0
+EMP-0074,Michelle,Wright,Sales,North America,MGR-041,2023-05-28,89000.0
+EMP-0075,Amanda,Taylor,Sales,North America,MGR-044,2020-10-22,101000.0
+EMP-0076,Joshua,Wright,Sales,EMEA,MGR-039,2020-10-12,88000.0
+EMP-0077,Charles,Morton,Engineering,North America,MGR-025,2023-12-05,85000.0
+EMP-0078,Andrea,Williams,Sales,EMEA,MGR-039,2023-08-22,57000.0
+EMP-0079,Mary,Novak,Support,EMEA,MGR-034,2022-04-19,84000.0
+EMP-0080,Karen,Young,Sales,EMEA,MGR-036,2023-12-10,73000.0
+EMP-0081,Todd,Lewis,Sales,North America,MGR-044,2021-09-23,70000.0
+EMP-0082,Rachel,Martin,Support,APAC,MGR-008,2021-09-14,83000.0
+EMP-0083,Tricia,Baker,Marketing,APAC,MGR-035,2020-01-04,95000.0
+EMP-0084,Kristen,Mitchell,Sales,EMEA,MGR-050,2023-05-03,113000.0
+EMP-0085,Susan,Cowan,Sales,APAC,MGR-022,2022-12-18,53000.0
+EMP-0086,Dorothy,Tucker,Sales,North America,MGR-019,2022-05-13,93000.0
+EMP-0087,Kenneth,Novak,Support,EMEA,MGR-011,2020-10-21,84000.0
+EMP-0088,Jill,Brown,Sales,EMEA,MGR-001,2022-06-18,93000.0
+EMP-0089,Brian,Silva,Sales,APAC,MGR-047,2021-05-02,78000.0
+EMP-0090,Samantha,Schmidt,Sales,EMEA,MGR-033,2022-02-20,88000.0
+EMP-0091,Susan,Miller,Sales,North America,MGR-033,2020-03-29,78000.0
+EMP-0092,Casey,Jones,Support,North America,MGR-041,2020-10-15,57000.0
+EMP-0093,Joe,Wilson,Support,EMEA,MGR-041,2023-08-31,86000.0
+EMP-0094,Ashley,Riley,Sales,APAC,MGR-039,2023-10-15,61000.0
+EMP-0095,Christine,Barnes,Sales,North America,MGR-010,2020-03-02,87000.0
+EMP-0096,Annette,Stewart,Marketing,EMEA,MGR-049,2022-06-25,94000.0
+EMP-0097,James,Moran,Support,North America,MGR-035,2021-02-09,62000.0
+EMP-0098,Joseph,Anderson,Engineering,APAC,MGR-001,2021-01-05,77000.0
+EMP-0099,Kevin,Stewart,Sales,APAC,MGR-021,2022-09-29,88000.0
+EMP-0100,Shari,Smith,Support,EMEA,MGR-002,2023-03-13,71000.0
+EMP-0101,Yolanda,Ferrell,Support,North America,MGR-024,2022-08-22,116000.0
+EMP-0102,Amanda,Wagner,Engineering,EMEA,MGR-016,2020-04-23,76000.0
+EMP-0103,Sarah,Ibarra,Sales,North America,MGR-016,2020-07-24,61000.0
+EMP-0104,John,Mitchell,Sales,APAC,MGR-006,2023-09-27,90000.0
+EMP-0105,Martha,Warner,Support,North America,MGR-047,2021-11-11,73000.0
+EMP-0106,Tonya,Roman,HR,EMEA,MGR-005,2022-08-08,86000.0
+EMP-0107,Alan,Montoya,HR,APAC,MGR-050,2022-04-01,68000.0
+EMP-0108,Sarah,Garcia,Engineering,North America,MGR-009,2021-04-10,87000.0
+EMP-0109,Dennis,Wilson,Marketing,APAC,MGR-031,2023-09-26,61000.0
+EMP-0110,Julia,Moore,Engineering,APAC,MGR-011,2020-06-15,67000.0
+EMP-0111,Cassandra,Robbins,Marketing,EMEA,MGR-034,2021-03-13,84000.0
+EMP-0112,Grace,Farrell,Sales,APAC,MGR-028,2020-11-12,101000.0
+EMP-0113,Tracy,Whitehead,Support,North America,MGR-035,2022-02-24,91000.0
+EMP-0114,Brent,Walters,Support,APAC,MGR-045,2023-08-07,76000.0
+EMP-0115,Joshua,Smith,Support,North America,MGR-046,2023-07-12,61000.0
+EMP-0116,David,Whitney,Sales,EMEA,MGR-026,2023-04-12,96000.0
+EMP-0117,Joyce,Arnold,Marketing,APAC,MGR-042,2020-09-08,80000.0
+EMP-0118,Ann,Rodriguez,Marketing,EMEA,MGR-029,2021-10-26,79000.0
+EMP-0119,Hannah,Hernandez,Engineering,APAC,MGR-029,2023-10-03,97000.0
+EMP-0120,Mary,Aguilar,Support,North America,MGR-016,2020-02-25,75000.0
+EMP-0121,Russell,Williams,Support,North America,MGR-005,2020-08-18,78000.0
+EMP-0122,Rachel,Flynn,Sales,EMEA,MGR-002,2021-07-20,78000.0
+EMP-0123,Bill,Howard,Engineering,APAC,MGR-036,2023-08-30,77000.0
+EMP-0124,John,Garcia,Sales,North America,MGR-038,2022-11-25,62000.0
+EMP-0125,Anita,Baxter,Engineering,North America,MGR-001,2023-04-26,48000.0
+EMP-0126,Kara,Frost,Engineering,North America,MGR-046,2022-08-22,80000.0
+EMP-0127,Michelle,Cherry,Sales,APAC,MGR-004,2021-01-02,62000.0
+EMP-0128,Gregory,Gutierrez,Engineering,North America,MGR-005,2023-06-13,70000.0
+EMP-0129,Jill,Cook,Support,North America,MGR-022,2020-10-05,83000.0
+EMP-0130,Robert,Santiago,Sales,North America,MGR-033,2023-12-16,56000.0
+EMP-0131,Lisa,Adams,Sales,North America,MGR-018,2023-02-15,111000.0
+EMP-0132,Jacqueline,Reyes,Support,APAC,MGR-032,2023-05-08,103000.0
+EMP-0133,Michele,Walker,Support,North America,MGR-035,2020-03-01,75000.0
+EMP-0134,Samantha,Bailey,Sales,North America,MGR-047,2023-06-22,82000.0
+EMP-0135,Laura,Perez,Support,APAC,MGR-037,2023-06-28,68000.0
+EMP-0136,Donna,Ross,Sales,EMEA,MGR-016,2020-02-06,50000.0
+EMP-0137,Michelle,Rasmussen,Sales,EMEA,MGR-027,2021-03-08,63000.0
+EMP-0138,Michael,Hicks,Sales,North America,MGR-007,2021-03-09,100000.0
+EMP-0139,Tina,Herrera,Sales,North America,MGR-043,2022-11-21,80000.0
+EMP-0140,Anthony,Wiley,Support,EMEA,MGR-023,2023-12-30,51000.0
+EMP-0141,Gregory,Estes,Support,EMEA,MGR-027,2021-02-09,81000.0
+EMP-0142,Benjamin,Carlson,Support,EMEA,MGR-047,2021-02-16,100000.0
+EMP-0143,Jessica,Edwards,Engineering,North America,MGR-044,2021-06-21,64000.0
+EMP-0144,Tracey,Wilson,Support,APAC,MGR-042,2022-07-30,56000.0
+EMP-0145,Barbara,Scott,Sales,North America,MGR-004,2023-10-29,71000.0
+EMP-0146,Ryan,Meyer,Sales,EMEA,MGR-047,2023-01-06,103000.0
+EMP-0147,Amanda,Ball,Engineering,EMEA,MGR-007,2023-06-06,56000.0
+EMP-0148,Jillian,Gonzalez,Engineering,North America,MGR-013,2023-02-26,73000.0
+EMP-0149,Chad,Beck,Engineering,North America,MGR-035,2021-10-31,98000.0
+EMP-0150,Cindy,Alvarado,Sales,EMEA,MGR-009,2021-05-27,95000.0
+EMP-0151,Jennifer,Evans,Engineering,EMEA,MGR-012,2020-07-12,76000.0
+EMP-0152,Elizabeth,Nguyen,Marketing,EMEA,MGR-030,2021-04-25,110000.0
+EMP-0153,Kenneth,Martinez,Support,North America,MGR-005,2022-12-19,72000.0
+EMP-0154,Elizabeth,Gray,Engineering,EMEA,MGR-036,2021-10-15,76000.0
+EMP-0155,Raven,Gilbert,Marketing,North America,MGR-004,2023-03-08,47000.0
+EMP-0156,Richard,Bass,Support,APAC,MGR-035,2021-04-12,94000.0
+EMP-0157,Justin,Jordan,Engineering,North America,MGR-006,2021-04-17,85000.0
+EMP-0158,Catherine,Morris,Engineering,North America,MGR-011,2022-06-19,76000.0
+EMP-0159,Scott,Lewis,HR,EMEA,MGR-032,2021-11-17,68000.0
+EMP-0160,Laura,Moyer,Sales,EMEA,MGR-014,2022-01-05,78000.0
+EMP-0161,Gene,Miller,Marketing,EMEA,MGR-004,2023-02-17,66000.0
+EMP-0162,Elizabeth,Harvey,Support,North America,MGR-025,2022-03-11,70000.0
+EMP-0163,Loretta,Potter,Support,North America,MGR-025,2020-05-25,80000.0
+EMP-0164,Lance,Drake,Marketing,EMEA,MGR-030,2022-11-11,84000.0
+EMP-0165,Andrew,Sanchez,Sales,EMEA,MGR-028,2020-08-16,83000.0
+EMP-0166,Cheryl,Mack,Marketing,APAC,MGR-047,2022-01-08,64000.0
+EMP-0167,Robert,Soto,HR,APAC,MGR-043,2021-12-08,48000.0
+EMP-0168,Jennifer,Cruz,Support,APAC,MGR-032,2020-10-29,57000.0
+EMP-0169,John,Douglas,Sales,North America,MGR-013,2021-09-12,98000.0
+EMP-0170,Patricia,Dalton,Support,EMEA,MGR-014,2020-01-09,68000.0
+EMP-0171,Daniel,Coleman,Sales,North America,MGR-038,2023-10-07,75000.0
+EMP-0172,Linda,Dominguez,Marketing,APAC,MGR-035,2020-09-30,89000.0
+EMP-0173,Brent,Wright,Sales,North America,MGR-048,2021-12-22,71000.0
+EMP-0174,David,Anderson,Sales,EMEA,MGR-004,2023-08-10,88000.0
+EMP-0175,Elizabeth,Travis,Marketing,North America,MGR-038,2021-12-22,71000.0
+EMP-0176,Logan,Fischer,HR,EMEA,MGR-033,2022-07-14,66000.0
+EMP-0177,Cheyenne,Ball,HR,APAC,MGR-011,2021-11-18,104000.0
+EMP-0178,Ronald,Meadows,Engineering,North America,MGR-033,2022-02-23,91000.0
+EMP-0179,Phyllis,Manning,Sales,North America,MGR-012,2021-11-23,93000.0
+EMP-0180,Shannon,Walton,Support,North America,MGR-039,2022-01-07,57000.0
+EMP-0181,Dana,Cannon,Support,North America,MGR-044,2023-07-28,65000.0
+EMP-0182,Todd,Allen,Engineering,North America,MGR-026,2022-03-20,75000.0
+EMP-0183,Chris,Mitchell,Engineering,North America,MGR-037,2021-11-14,70000.0
+EMP-0184,Matthew,Orozco,Sales,North America,MGR-038,2021-02-26,87000.0
+EMP-0185,Devon,Hall,Sales,APAC,MGR-003,2020-05-05,84000.0
+EMP-0186,Eric,Lewis,Sales,APAC,MGR-006,2022-12-14,95000.0
+EMP-0187,Rick,Daniels,Sales,EMEA,MGR-043,2021-10-06,69000.0
+EMP-0188,Bryan,Wall,Marketing,APAC,MGR-037,2021-10-07,78000.0
+EMP-0189,Rebecca,Silva,Support,APAC,MGR-021,2021-08-28,92000.0
+EMP-0190,Andrew,Gilmore,Marketing,EMEA,MGR-014,2022-12-16,68000.0
+EMP-0191,Omar,Smith,HR,APAC,MGR-046,2022-06-13,65000.0
+EMP-0192,Kenneth,Price,Sales,EMEA,MGR-016,2021-06-30,95000.0
+EMP-0193,Stephanie,Barnes,Support,EMEA,MGR-026,2023-10-17,44000.0
+EMP-0194,Jessica,Marsh,Marketing,North America,MGR-043,2023-03-07,99000.0
+EMP-0195,Jeffrey,Robinson,Sales,APAC,MGR-020,2023-10-26,70000.0
+EMP-0196,Todd,Price,Engineering,EMEA,MGR-021,2021-11-08,75000.0
+EMP-0197,Erin,Powell,Sales,North America,MGR-001,2022-11-05,94000.0
+EMP-0198,Mary,Calhoun,Engineering,EMEA,MGR-040,2020-09-13,87000.0
+EMP-0199,Amanda,Meadows,HR,APAC,MGR-007,2022-08-24,53000.0
+EMP-0200,Anne,Johnson,Marketing,North America,MGR-035,2022-07-08,62000.0
+EMP-0201,Roy,Camacho,Sales,North America,MGR-033,2022-09-25,76000.0
+EMP-0202,Brent,Gray,HR,EMEA,MGR-009,2020-10-09,90000.0
+EMP-0203,Shawn,Rogers,Sales,EMEA,MGR-005,2020-11-24,82000.0
+EMP-0204,Nicholas,Walton,Engineering,North America,MGR-024,2023-09-28,76000.0
+EMP-0205,Robert,Conley,Support,EMEA,MGR-011,2023-07-16,69000.0
+EMP-0206,Andrew,Ryan,Support,EMEA,MGR-035,2021-12-31,103000.0
+EMP-0207,Jeffrey,Jones,Engineering,APAC,MGR-020,2021-06-27,73000.0
+EMP-0208,Billy,Johnson,Support,APAC,MGR-042,2022-10-09,90000.0
+EMP-0209,James,Smith,Sales,APAC,MGR-001,2021-01-19,73000.0
+EMP-0210,John,Wells,Engineering,APAC,MGR-036,2020-08-24,55000.0
+EMP-0211,Anne,Robinson,Engineering,EMEA,MGR-043,2020-06-26,46000.0
+EMP-0212,Jonathan,Wood,Marketing,North America,MGR-009,2022-12-22,80000.0
+EMP-0213,Catherine,Adkins,Support,EMEA,MGR-008,2022-07-30,86000.0
+EMP-0214,Kimberly,Martin,Engineering,North America,MGR-048,2020-06-26,97000.0
+EMP-0215,Daniel,Johnson,Marketing,APAC,MGR-010,2021-04-28,74000.0
+EMP-0216,Barbara,Odonnell,Marketing,EMEA,MGR-019,2021-04-29,71000.0
+EMP-0217,Randy,Espinoza,HR,APAC,MGR-014,2021-08-06,79000.0
+EMP-0218,Brittany,Rivas,Engineering,APAC,MGR-022,2020-04-28,59000.0
+EMP-0219,Curtis,Barton,HR,North America,MGR-044,2021-01-12,79000.0
+EMP-0220,Gabrielle,Trujillo,Engineering,APAC,MGR-017,2023-08-13,79000.0
+EMP-0221,Tonya,Patton,Engineering,APAC,MGR-032,2023-05-21,73000.0
+EMP-0222,Amanda,Stanley,Marketing,EMEA,MGR-004,2021-06-23,74000.0
+EMP-0223,William,Peterson,Marketing,North America,MGR-041,2020-04-17,98000.0
+EMP-0224,Robert,Henry,Marketing,EMEA,MGR-018,2023-08-12,80000.0
+EMP-0225,Susan,Reid,Marketing,North America,MGR-001,2021-11-04,70000.0
+EMP-0226,Steve,Hernandez,Sales,EMEA,MGR-050,2023-07-11,51000.0
+EMP-0227,Jessica,Sheppard,HR,North America,MGR-041,2020-09-30,54000.0
+EMP-0228,Christina,Gillespie,Support,EMEA,MGR-011,2021-02-23,83000.0
+EMP-0229,Timothy,Graham,Support,APAC,MGR-029,2023-04-18,63000.0
+EMP-0230,Brittany,Morris,Support,APAC,MGR-046,2023-02-09,70000.0
+EMP-0231,Mariah,Miller,Engineering,EMEA,MGR-036,2021-01-16,77000.0
+EMP-0232,Shannon,Christensen,Marketing,North America,MGR-008,2023-10-01,98000.0
+EMP-0233,Cheryl,Gray,Engineering,North America,MGR-045,2022-06-04,90000.0
+EMP-0234,Troy,Nguyen,Engineering,North America,MGR-035,2020-02-14,77000.0
+EMP-0235,Jason,Salinas,Sales,North America,MGR-024,2022-01-27,97000.0
+EMP-0236,Joshua,Carlson,Sales,APAC,MGR-036,2021-06-12,88000.0
+EMP-0237,Joshua,Smith,Sales,North America,MGR-028,2023-09-29,49000.0
+EMP-0238,Christopher,Cortez,Engineering,North America,MGR-003,2020-10-23,97000.0
+EMP-0239,Angela,Allen,Marketing,EMEA,MGR-024,2022-01-28,78000.0
+EMP-0240,Debbie,Henry,Support,North America,MGR-023,2022-01-09,42000.0
+EMP-0241,Andre,Phillips,Engineering,North America,MGR-044,2023-05-16,90000.0
+EMP-0242,Heather,Torres,Marketing,North America,MGR-043,2021-09-20,80000.0
+EMP-0243,Miguel,Tran,Sales,North America,MGR-023,2022-06-22,75000.0
+EMP-0244,Ronald,Reese,Sales,APAC,MGR-027,2021-06-18,87000.0
+EMP-0245,Michael,Chavez,Engineering,APAC,MGR-048,2021-05-28,75000.0
+EMP-0246,John,Martinez,Sales,North America,MGR-016,2021-04-21,81000.0
+EMP-0247,Leslie,Newton,Support,North America,MGR-012,2020-10-26,73000.0
+EMP-0248,Hannah,Lee,Sales,EMEA,MGR-002,2023-03-30,74000.0
+EMP-0249,Todd,Hardy,Sales,North America,MGR-048,2023-02-21,58000.0
+EMP-0250,Alicia,Campbell,Sales,EMEA,MGR-027,2023-03-26,82000.0
+EMP-0251,Marissa,Phillips,Marketing,APAC,MGR-048,2020-06-05,106000.0
+EMP-0252,Harry,Smith,Sales,North America,MGR-018,2021-07-14,70000.0
+EMP-0253,David,Williams,Sales,North America,MGR-045,2022-04-09,63000.0
+EMP-0254,Angela,Terry,Sales,North America,MGR-025,2020-03-25,67000.0
+EMP-0255,Dana,Mullins,Sales,North America,MGR-031,2020-07-15,53000.0
+EMP-0256,Monique,Andrews,Engineering,North America,MGR-013,2020-06-08,72000.0
+EMP-0257,Timothy,Peterson,Engineering,EMEA,MGR-023,2021-12-30,73000.0
+EMP-0258,Johnny,Hensley,Support,EMEA,MGR-015,2020-03-20,76000.0
+EMP-0259,Lynn,Morales,Support,North America,MGR-002,2020-06-26,88000.0
+EMP-0260,Barbara,Parks,Support,APAC,MGR-013,2020-04-25,66000.0
+EMP-0261,Edward,Hart,Sales,EMEA,MGR-022,2020-08-23,67000.0
+EMP-0262,Christopher,Wright,Engineering,EMEA,MGR-005,2021-04-16,57000.0
+EMP-0263,Kathy,Obrien,Support,EMEA,MGR-023,2022-05-16,66000.0
+EMP-0264,Christine,Rowe,Support,APAC,MGR-033,2023-05-13,42000.0
+EMP-0265,Shannon,Ramos,Sales,EMEA,MGR-044,2021-08-13,88000.0
+EMP-0266,Brianna,Patterson,Marketing,APAC,MGR-022,2023-08-29,60000.0
+EMP-0267,Christine,Lynch,Engineering,North America,MGR-008,2022-06-02,60000.0
+EMP-0268,Cory,Farmer,Engineering,EMEA,MGR-012,2023-02-23,76000.0
+EMP-0269,Jason,Guerrero,Engineering,APAC,MGR-017,2022-08-29,63000.0
+EMP-0270,John,Arnold,Engineering,North America,MGR-007,2020-08-31,61000.0
+EMP-0271,Aaron,Hayes,Sales,APAC,MGR-028,2020-08-31,59000.0
+EMP-0272,Terry,Johnson,Sales,EMEA,MGR-047,2022-07-11,65000.0
+EMP-0273,Jasmine,Warner,Sales,EMEA,MGR-028,2021-03-23,78000.0
+EMP-0274,Charles,Hall,Support,APAC,MGR-033,2021-12-06,89000.0
+EMP-0275,Kristin,Weber,Support,North America,MGR-025,2021-02-14,62000.0
+EMP-0276,Linda,Gonzalez,Engineering,APAC,MGR-013,2022-10-24,75000.0
+EMP-0277,Amy,Holland,Engineering,EMEA,MGR-003,2020-06-27,68000.0
+EMP-0278,Joseph,Thomas,Sales,APAC,MGR-028,2023-11-12,99000.0
+EMP-0279,Gabriel,Parker,Sales,North America,MGR-034,2020-04-02,96000.0
+EMP-0280,Madison,Morse,Engineering,APAC,MGR-044,2023-03-09,55000.0
+EMP-0281,David,Barker,Engineering,APAC,MGR-048,2021-11-13,75000.0
+EMP-0282,Richard,Nelson,Sales,APAC,MGR-043,2022-12-22,77000.0
+EMP-0283,Troy,Miller,Sales,North America,MGR-024,2022-04-18,68000.0
+EMP-0284,Pamela,Navarro,Sales,EMEA,MGR-005,2020-03-02,66000.0
+EMP-0285,John,Davis,Sales,APAC,MGR-022,2022-07-26,63000.0
+EMP-0286,Mary,Johnston,Marketing,APAC,MGR-021,2022-11-13,67000.0
+EMP-0287,Yvonne,Chambers,Sales,APAC,MGR-008,2020-02-02,37000.0
+EMP-0288,Barbara,Hines,HR,APAC,MGR-020,2021-02-22,85000.0
+EMP-0289,Thomas,Pearson,Sales,APAC,MGR-020,2020-09-29,81000.0
+EMP-0290,Joshua,Shea,Marketing,APAC,MGR-027,2023-11-24,74000.0
+EMP-0291,Cynthia,Vasquez,Marketing,EMEA,MGR-026,2021-11-08,64000.0
+EMP-0292,Theodore,Ortiz,Support,APAC,MGR-019,2020-05-21,67000.0
+EMP-0293,Elizabeth,Hodge,Marketing,APAC,MGR-009,2021-05-13,106000.0
+EMP-0294,Robert,Simpson,Sales,North America,MGR-027,2021-05-27,99000.0
+EMP-0295,Sierra,Cervantes,Support,APAC,MGR-025,2022-10-26,67000.0
+EMP-0296,Benjamin,Miller,Engineering,APAC,MGR-048,2022-05-04,60000.0
+EMP-0297,Marcus,Cordova,Engineering,North America,MGR-040,2021-01-27,68000.0
+EMP-0298,Michelle,Bryan,Support,APAC,MGR-020,2021-09-19,70000.0
+EMP-0299,Diane,Daniels,Sales,EMEA,MGR-036,2020-01-02,58000.0
+EMP-0300,Brian,Stone,Engineering,North America,MGR-020,2021-10-03,79000.0
+EMP-0301,Katherine,Garrett,Engineering,EMEA,MGR-014,2022-08-25,73000.0
+EMP-0302,Brett,Adams,Sales,EMEA,MGR-038,2023-03-26,69000.0
+EMP-0303,Sara,Kim,Sales,APAC,MGR-042,2020-07-22,66000.0
+EMP-0304,Todd,Johnson,Support,EMEA,MGR-030,2022-12-20,86000.0
+EMP-0305,Chelsea,Allen,Support,EMEA,MGR-029,2022-09-05,64000.0
+EMP-0306,Lance,Smith,Engineering,APAC,MGR-014,2020-09-03,112000.0
+EMP-0307,Christopher,Gay,Sales,APAC,MGR-031,2021-09-25,78000.0
+EMP-0308,Daniel,Valentine,Sales,APAC,MGR-011,2023-11-19,76000.0
+EMP-0309,Marilyn,Jimenez,Sales,APAC,MGR-006,2022-10-03,82000.0
+EMP-0310,Kelly,Thornton,Marketing,EMEA,MGR-033,2023-01-18,99000.0
+EMP-0311,Mary,Baird,Sales,APAC,MGR-041,2021-10-07,66000.0
+EMP-0312,Stephen,Thomas,Sales,APAC,MGR-022,2021-01-13,84000.0
+EMP-0313,Sandra,Romero,Sales,North America,MGR-049,2020-10-23,83000.0
+EMP-0314,Derek,Jones,Engineering,North America,MGR-044,2023-09-27,91000.0
+EMP-0315,Kristy,Perry,Engineering,EMEA,MGR-015,2023-04-15,71000.0
+EMP-0316,Kristin,Adams,Marketing,North America,MGR-010,2023-12-22,89000.0
+EMP-0317,Justin,Evans,Engineering,North America,MGR-003,2020-01-04,65000.0
+EMP-0318,Bethany,Keller,Sales,North America,MGR-031,2022-06-30,42000.0
+EMP-0319,Edgar,Ryan,Support,APAC,MGR-050,2023-09-06,51000.0
+EMP-0320,Martin,Hines,Marketing,North America,MGR-030,2021-06-20,75000.0
+EMP-0321,Stanley,Morris,Engineering,EMEA,MGR-041,2021-08-08,88000.0
+EMP-0322,Tina,Allen,Support,APAC,MGR-013,2020-10-20,76000.0
+EMP-0323,Jesus,Rowe,Sales,APAC,MGR-045,2021-08-17,77000.0
+EMP-0324,Louis,Kennedy,Sales,EMEA,MGR-032,2020-03-08,84000.0
+EMP-0325,Lisa,Hughes,Sales,EMEA,MGR-016,2023-11-19,83000.0
+EMP-0326,Laura,Pearson,Engineering,North America,MGR-042,2022-10-28,94000.0
+EMP-0327,Tyler,Johnson,Marketing,APAC,MGR-001,2020-08-24,68000.0
+EMP-0328,Tammy,Rivera,Sales,North America,MGR-050,2022-02-19,81000.0
+EMP-0329,Morgan,Alexander,Sales,EMEA,MGR-015,2020-06-04,98000.0
+EMP-0330,Renee,Smith,Marketing,North America,MGR-045,2022-03-28,81000.0
+EMP-0331,Robert,Pena,Sales,APAC,MGR-030,2020-08-11,94000.0
+EMP-0332,Charles,Harrington,Sales,North America,MGR-036,2020-08-27,68000.0
+EMP-0333,Matthew,Schwartz,Sales,North America,MGR-008,2021-02-15,89000.0
+EMP-0334,Christopher,Murphy,Support,EMEA,MGR-009,2022-10-06,90000.0
+EMP-0335,Michele,James,Support,EMEA,MGR-043,2022-11-13,51000.0
+EMP-0336,Courtney,Clay,Sales,APAC,MGR-036,2021-05-06,79000.0
+EMP-0337,Monique,Johnson,Sales,APAC,MGR-021,2022-01-28,78000.0
+EMP-0338,Jimmy,Cohen,Engineering,EMEA,MGR-040,2020-04-16,88000.0
+EMP-0339,Wendy,Francis,Engineering,APAC,MGR-033,2021-03-22,78000.0
+EMP-0340,Tiffany,Hodges,Support,EMEA,MGR-036,2021-11-05,115000.0
+EMP-0341,Monique,Wallace,Sales,EMEA,MGR-011,2022-12-29,102000.0
+EMP-0342,Kevin,Johnson,Marketing,APAC,MGR-031,2022-12-14,84000.0
+EMP-0343,Laura,Carter,Support,EMEA,MGR-017,2021-05-18,79000.0
+EMP-0344,Ryan,Sanchez,Support,North America,MGR-041,2021-08-05,58000.0
+EMP-0345,Ashlee,Sparks,Engineering,EMEA,MGR-050,2021-10-02,78000.0
+EMP-0346,Gregory,Lynch,Marketing,APAC,MGR-032,2020-09-21,77000.0
+EMP-0347,Christine,Allen,Engineering,APAC,MGR-016,2021-08-17,113000.0
+EMP-0348,Brandy,Hall,Engineering,EMEA,MGR-029,2023-11-19,83000.0
+EMP-0349,Jonathan,Scott,Sales,North America,MGR-046,2022-09-17,91000.0
+EMP-0350,Rachel,Marshall,Sales,EMEA,MGR-016,2020-01-15,66000.0
+EMP-0351,Erica,Moore,Sales,EMEA,MGR-022,2021-03-22,88000.0
+EMP-0352,Sierra,Huerta,Marketing,EMEA,MGR-035,2021-11-17,40000.0
+EMP-0353,Danielle,Coleman,Sales,North America,MGR-009,2021-04-09,94000.0
+EMP-0354,Stephen,Turner,Engineering,North America,MGR-015,2021-01-23,63000.0
+EMP-0355,Melissa,Rodriguez,Sales,EMEA,MGR-045,2021-08-20,58000.0
+EMP-0356,Ashley,Andrews,Sales,North America,MGR-046,2021-08-15,73000.0
+EMP-0357,Kenneth,Spence,Engineering,North America,MGR-005,2022-12-22,87000.0
+EMP-0358,Randy,Smith,Engineering,EMEA,MGR-027,2022-10-19,73000.0
+EMP-0359,Gina,Garner,Engineering,EMEA,MGR-035,2023-09-05,60000.0
+EMP-0360,Renee,Mcgee,HR,EMEA,MGR-027,2020-03-17,83000.0
+EMP-0361,Rebecca,Mitchell,Sales,North America,MGR-014,2023-07-17,63000.0
+EMP-0362,Jerry,Pham,HR,EMEA,MGR-025,2023-05-25,73000.0
+EMP-0363,Dana,Oliver,Engineering,APAC,MGR-045,2020-12-06,65000.0
+EMP-0364,Karla,Saunders,Support,North America,MGR-049,2022-11-18,77000.0
+EMP-0365,Mary,Fuller,Sales,APAC,MGR-025,2022-11-23,73000.0
+EMP-0366,Courtney,Williams,Sales,EMEA,MGR-001,2023-11-04,77000.0
+EMP-0367,Scott,Riley,Sales,EMEA,MGR-020,2023-05-10,114000.0
+EMP-0368,David,Browning,Sales,EMEA,MGR-027,2023-02-11,58000.0
+EMP-0369,Julie,Thompson,Support,APAC,MGR-048,2021-05-22,96000.0
+EMP-0370,Kristin,Walter,Engineering,APAC,MGR-035,2020-07-24,35000.0
+EMP-0371,Alyssa,Mcintyre,Engineering,APAC,MGR-015,2021-07-22,57000.0
+EMP-0372,Franklin,Sloan,Sales,EMEA,MGR-015,2023-07-14,78000.0
+EMP-0373,Tammy,Phillips,Marketing,EMEA,MGR-028,2022-01-18,73000.0
+EMP-0374,Matthew,Wilson,Sales,EMEA,MGR-002,2023-09-14,83000.0
+EMP-0375,Donald,Levy,Support,EMEA,MGR-022,2020-04-26,70000.0
+EMP-0376,Erica,Craig,Sales,APAC,MGR-044,2023-08-29,74000.0
+EMP-0377,Tammy,Ballard,Support,EMEA,MGR-047,2021-09-09,74000.0
+EMP-0378,Christopher,Foster,Sales,North America,MGR-030,2021-07-22,75000.0
+EMP-0379,Amanda,Gibson,Sales,North America,MGR-040,2021-02-14,76000.0
+EMP-0380,Kaitlyn,Baker,Sales,APAC,MGR-002,2022-11-11,73000.0
+EMP-0381,Lynn,Bentley,Support,EMEA,MGR-038,2021-08-14,70000.0
+EMP-0382,Emily,Ruiz,Sales,APAC,MGR-043,2020-06-17,72000.0
+EMP-0383,Nicole,Hoffman,Support,North America,MGR-006,2022-08-20,79000.0
+EMP-0384,Chelsea,Holland,Engineering,APAC,MGR-028,2023-11-22,79000.0
+EMP-0385,Madison,Blankenship,Support,North America,MGR-030,2022-09-14,65000.0
+EMP-0386,Debra,Wilson,Marketing,North America,MGR-004,2021-04-14,61000.0
+EMP-0387,Sophia,Torres,Sales,EMEA,MGR-025,2020-03-11,50000.0
+EMP-0388,Darren,Young,Marketing,EMEA,MGR-014,2022-02-04,101000.0
+EMP-0389,Derek,Chavez,Marketing,EMEA,MGR-021,2022-04-15,56000.0
+EMP-0390,Stacy,Horton,Engineering,EMEA,MGR-049,2022-11-07,63000.0
+EMP-0391,Robert,Newton,Engineering,EMEA,MGR-018,2022-04-19,86000.0
+EMP-0392,Nicole,Pena,Engineering,EMEA,MGR-017,2020-08-28,54000.0
+EMP-0393,Tracy,Russell,Engineering,North America,MGR-031,2023-07-19,49000.0
+EMP-0394,Antonio,Wood,Marketing,North America,MGR-048,2021-03-10,67000.0
+EMP-0395,Sean,Young,Support,APAC,MGR-004,2021-11-19,90000.0
+EMP-0396,Cory,Jennings,Support,EMEA,MGR-015,2021-07-17,75000.0
+EMP-0397,Rachel,Newman,Engineering,APAC,MGR-005,2022-04-25,107000.0
+EMP-0398,Raymond,Lopez,Sales,APAC,MGR-003,2020-04-04,85000.0
+EMP-0399,Stacy,Holloway,Sales,North America,MGR-016,2020-07-08,56000.0
+EMP-0400,Elizabeth,May,Sales,North America,MGR-002,2020-05-22,77000.0
+EMP-0401,Tasha,Williams,Sales,APAC,MGR-010,2022-07-16,51000.0
+EMP-0402,John,Martinez,Engineering,North America,MGR-009,2021-06-02,83000.0
+EMP-0403,Jamie,Gallegos,Support,EMEA,MGR-043,2022-05-27,68000.0
+EMP-0404,Jamie,Robinson,Sales,North America,MGR-037,2022-05-10,83000.0
+EMP-0405,Jesse,Schroeder,Sales,North America,MGR-030,2023-09-13,99000.0
+EMP-0406,Rachel,Smith,Support,APAC,MGR-017,2023-05-10,99000.0
+EMP-0407,Tracey,Huerta,Sales,EMEA,MGR-011,2023-08-26,73000.0
+EMP-0408,John,Thompson,Engineering,APAC,MGR-039,2022-04-19,87000.0
+EMP-0409,Michelle,Anderson,Engineering,APAC,MGR-046,2022-10-23,70000.0
+EMP-0410,Kristy,Young,Support,North America,MGR-050,2021-07-10,78000.0
+EMP-0411,Alfred,Baker,Sales,North America,MGR-020,2021-05-17,52000.0
+EMP-0412,Judy,Fox,Engineering,North America,MGR-038,2020-07-15,63000.0
+EMP-0413,Bryce,West,Support,North America,MGR-020,2023-03-04,84000.0
+EMP-0414,William,Rodriguez,Engineering,APAC,MGR-044,2021-07-16,49000.0
+EMP-0415,Jeffrey,Gilbert,Support,EMEA,MGR-026,2022-02-21,76000.0
+EMP-0416,Krista,Camacho,Sales,APAC,MGR-013,2023-02-03,78000.0
+EMP-0417,Kevin,Schneider,Sales,North America,MGR-038,2022-03-21,84000.0
+EMP-0418,Bruce,Mendoza,Sales,APAC,MGR-041,2020-02-18,52000.0
+EMP-0419,Ronald,Rodriguez,Engineering,North America,MGR-007,2021-09-15,50000.0
+EMP-0420,Renee,Jones,Support,APAC,MGR-050,2023-01-11,90000.0
+EMP-0421,Marc,Hernandez,Sales,EMEA,MGR-044,2020-05-05,78000.0
+EMP-0422,Joshua,Schultz,Engineering,APAC,MGR-008,2020-07-15,70000.0
+EMP-0423,Jennifer,James,Support,APAC,MGR-003,2022-05-01,52000.0
+EMP-0424,Alyssa,Chavez,Marketing,EMEA,MGR-035,2022-07-17,69000.0
+EMP-0425,Russell,Mcguire,Support,EMEA,MGR-043,2022-07-29,59000.0
+EMP-0426,Melissa,Curtis,Engineering,EMEA,MGR-005,2020-06-26,89000.0
+EMP-0427,Andrea,Glenn,Engineering,APAC,MGR-042,2023-04-09,55000.0
+EMP-0428,Shannon,Perez,Engineering,EMEA,MGR-001,2021-10-30,72000.0
+EMP-0429,Maria,Ross,Marketing,EMEA,MGR-032,2021-06-10,87000.0
+EMP-0430,Cody,Simmons,Support,North America,MGR-028,2023-02-07,84000.0
+EMP-0431,Jonathan,Mckay,Support,EMEA,MGR-041,2022-10-30,68000.0
+EMP-0432,Sandra,Jones,Engineering,EMEA,MGR-046,2022-12-02,84000.0
+EMP-0433,Christopher,Reynolds,Sales,North America,MGR-028,2023-07-16,87000.0
+EMP-0434,Joanne,Cain,Sales,North America,MGR-047,2023-03-02,77000.0
+EMP-0435,Brian,Frye,Support,APAC,MGR-042,2022-05-14,82000.0
+EMP-0436,Mark,Martinez,HR,EMEA,MGR-040,2022-05-22,72000.0
+EMP-0437,Morgan,Pugh,Marketing,APAC,MGR-050,2021-07-03,92000.0
+EMP-0438,Miranda,Griffith,Marketing,EMEA,MGR-030,2021-10-19,74000.0
+EMP-0439,Caroline,Bell,Sales,EMEA,MGR-047,2021-03-22,54000.0
+EMP-0440,William,Moore,Sales,APAC,MGR-018,2022-06-16,83000.0
+EMP-0441,Jeffrey,Rodriguez,Sales,EMEA,MGR-016,2022-01-19,59000.0
+EMP-0442,Angela,Wilson,Support,North America,MGR-018,2023-08-06,94000.0
+EMP-0443,Audrey,Aguirre,Sales,EMEA,MGR-016,2021-03-08,81000.0
+EMP-0444,Ann,Saunders,Support,EMEA,MGR-037,2023-08-05,46000.0
+EMP-0445,Christina,Day,Sales,APAC,MGR-043,2022-08-23,88000.0
+EMP-0446,Chelsea,Barrett,Support,EMEA,MGR-022,2020-02-10,79000.0
+EMP-0447,Joseph,White,Sales,North America,MGR-032,2022-12-13,86000.0
+EMP-0448,Kathryn,Dorsey,Support,EMEA,MGR-012,2022-12-27,76000.0
+EMP-0449,Adam,Kane,HR,EMEA,MGR-014,2021-06-29,93000.0
+EMP-0450,Diane,Jones,Engineering,EMEA,MGR-017,2022-05-29,65000.0
+EMP-0451,Cynthia,Johnson,Engineering,EMEA,MGR-018,2023-02-25,89000.0
+EMP-0452,Alyssa,Bennett,HR,APAC,MGR-045,2023-03-05,80000.0
+EMP-0453,Matthew,Wood,Support,EMEA,MGR-036,2021-12-05,50000.0
+EMP-0454,Mark,Pugh,Support,North America,MGR-034,2023-01-25,49000.0
+EMP-0455,Christopher,Williams,Sales,North America,MGR-006,2022-07-15,70000.0
+EMP-0456,Karen,Williams,Sales,North America,MGR-047,2020-09-01,63000.0
+EMP-0457,Joseph,Stanley,Sales,EMEA,MGR-032,2020-05-06,46000.0
+EMP-0458,Catherine,Perry,Support,APAC,MGR-049,2022-01-24,57000.0
+EMP-0459,Kari,Wilson,Sales,North America,MGR-045,2020-11-30,73000.0
+EMP-0460,Daniel,Gregory,Marketing,EMEA,MGR-042,2021-10-29,63000.0
+EMP-0461,Tommy,Estrada,Marketing,APAC,MGR-032,2022-07-10,110000.0
+EMP-0462,Jeffrey,Joyce,Sales,EMEA,MGR-002,2020-03-11,65000.0
+EMP-0463,Adrian,Turner,HR,North America,MGR-019,2020-03-26,93000.0
+EMP-0464,Katrina,Duran,Engineering,North America,MGR-026,2020-11-24,99000.0
+EMP-0465,Mark,Smith,Sales,APAC,MGR-016,2021-03-25,67000.0
+EMP-0466,Ryan,Anderson,Sales,EMEA,MGR-043,2023-03-06,66000.0
+EMP-0467,Jane,Mason,Support,APAC,MGR-024,2022-04-07,68000.0
+EMP-0468,Elizabeth,Gomez,HR,EMEA,MGR-036,2023-07-18,72000.0
+EMP-0469,Michelle,Williams,Marketing,APAC,MGR-023,2021-09-08,69000.0
+EMP-0470,Steve,Miller,Support,EMEA,MGR-048,2020-01-30,57000.0
+EMP-0471,Barbara,Berry,Support,APAC,MGR-022,2021-05-01,80000.0
+EMP-0472,Danielle,Roberts,Sales,EMEA,MGR-045,2023-01-07,69000.0
+EMP-0473,Andrew,Nguyen,Sales,EMEA,MGR-018,2021-09-21,110000.0
+EMP-0474,Stacey,Stevens,Engineering,EMEA,MGR-017,2023-05-29,89000.0
+EMP-0475,Samantha,Davis,Sales,North America,MGR-008,2022-12-07,70000.0
+EMP-0476,Daniel,Graham,Sales,APAC,MGR-013,2023-08-04,84000.0
+EMP-0477,Alexandria,Foster,Marketing,EMEA,MGR-008,2021-09-14,83000.0
+EMP-0478,Julie,Walker,Engineering,APAC,MGR-035,2021-04-26,91000.0
+EMP-0479,Gary,Dixon,Sales,APAC,MGR-012,2023-04-25,49000.0
+EMP-0480,Alyssa,Lee,Sales,North America,MGR-014,2020-06-26,56000.0
+EMP-0481,Michael,Luna,Support,APAC,MGR-031,2023-04-20,62000.0
+EMP-0482,Debbie,Hernandez,Sales,EMEA,MGR-047,2023-06-26,75000.0
+EMP-0483,Dwayne,Gonzalez,Support,APAC,MGR-049,2020-06-08,23000.0
+EMP-0484,Eric,Malone,Engineering,APAC,MGR-039,2022-07-24,62000.0
+EMP-0485,Gregory,Mejia,Marketing,EMEA,MGR-007,2020-04-27,95000.0
+EMP-0486,Steven,Elliott,Engineering,North America,MGR-019,2022-02-06,58000.0
+EMP-0487,Shane,Glass,Sales,North America,MGR-024,2022-06-19,79000.0
+EMP-0488,Dawn,Downs,Support,North America,MGR-020,2022-05-26,80000.0
+EMP-0489,Michelle,Burton,Marketing,North America,MGR-046,2021-05-17,81000.0
+EMP-0490,Scott,Harrison,Marketing,APAC,MGR-009,2020-08-22,86000.0
+EMP-0491,Kevin,Hill,Support,EMEA,MGR-003,2022-09-07,90000.0
+EMP-0492,Michael,Jones,Support,North America,MGR-036,2020-03-28,98000.0
+EMP-0493,Shannon,Brown,Sales,EMEA,MGR-045,2021-12-18,69000.0
+EMP-0494,Justin,Newman,Support,North America,MGR-041,2023-07-15,62000.0
+EMP-0495,Christopher,Wheeler,Sales,EMEA,MGR-007,2023-08-21,81000.0
+EMP-0496,Steven,Spencer,Engineering,North America,MGR-037,2021-08-20,81000.0
+EMP-0497,Joanne,Williams,Sales,EMEA,MGR-031,2023-05-15,87000.0
+EMP-0498,Lisa,Pearson,HR,EMEA,MGR-029,2023-11-13,53000.0
+EMP-0499,Cassidy,Mason,Support,EMEA,MGR-012,2021-05-14,86000.0
+EMP-0500,Shannon,Shepherd,Engineering,North America,MGR-017,2020-04-06,55000.0
+EMP-0501,Matthew,Klein,Support,EMEA,MGR-008,2023-07-24,79000.0
+EMP-0502,Debbie,Williams,Engineering,North America,MGR-026,2022-02-22,69000.0
+EMP-0503,Samuel,Gonzales,HR,EMEA,MGR-005,2023-01-04,93000.0
+EMP-0504,Chelsea,Cox,Marketing,APAC,MGR-041,2022-03-23,53000.0
+EMP-0505,Justin,Ortiz,Sales,APAC,MGR-004,2023-11-26,78000.0
+EMP-0506,Erika,Williams,Sales,North America,MGR-010,2021-06-09,81000.0
+EMP-0507,Deborah,Jones,Sales,APAC,MGR-020,2022-09-07,70000.0
+EMP-0508,Angela,Hughes,Engineering,North America,MGR-016,2020-05-26,78000.0
+EMP-0509,Jennifer,Douglas,Sales,North America,MGR-036,2021-01-26,68000.0
+EMP-0510,Carrie,Hernandez,Marketing,EMEA,MGR-039,2023-11-08,77000.0
+EMP-0511,Brandi,Thomas,HR,APAC,MGR-040,2020-05-06,81000.0
+EMP-0512,Kyle,Douglas,Sales,North America,MGR-050,2021-06-27,67000.0
+EMP-0513,Philip,Larson,Sales,APAC,MGR-025,2022-10-25,73000.0
+EMP-0514,Christopher,Hansen,Support,EMEA,MGR-029,2023-12-28,44000.0
+EMP-0515,Latasha,Li,Support,EMEA,MGR-038,2022-09-26,49000.0
+EMP-0516,Jacqueline,Valentine,HR,EMEA,MGR-020,2022-11-06,69000.0
+EMP-0517,Rita,Davis,Engineering,APAC,MGR-040,2022-11-30,57000.0
+EMP-0518,Rodney,Cox,Support,North America,MGR-040,2022-11-07,72000.0
+EMP-0519,Kyle,Bean,Support,APAC,MGR-007,2021-07-17,92000.0
+EMP-0520,Stacey,Tucker,Sales,North America,MGR-041,2021-06-14,95000.0
+EMP-0521,Zoe,Moore,HR,North America,MGR-017,2020-12-17,72000.0
+EMP-0522,Megan,Garcia,Marketing,APAC,MGR-006,2021-04-04,58000.0
+EMP-0523,Amber,Rodgers,Engineering,North America,MGR-016,2023-04-12,57000.0
+EMP-0524,Benjamin,Rogers,Sales,North America,MGR-036,2022-03-28,100000.0
+EMP-0525,Christine,Harper,HR,North America,MGR-011,2023-04-05,88000.0
+EMP-0526,Francis,Guerra,Sales,North America,MGR-027,2020-08-27,72000.0
+EMP-0527,Colleen,Orr,Sales,EMEA,MGR-045,2023-04-12,76000.0
+EMP-0528,Samuel,Jenkins,Engineering,APAC,MGR-031,2023-01-25,72000.0
+EMP-0529,Jennifer,Montes,Marketing,EMEA,MGR-003,2022-11-16,83000.0
+EMP-0530,Justin,Goodman,Sales,North America,MGR-019,2022-08-06,75000.0
+EMP-0531,Jesus,Allen,Marketing,APAC,MGR-019,2021-11-28,86000.0
+EMP-0532,Kristen,Mckee,Marketing,APAC,MGR-030,2023-06-10,86000.0
+EMP-0533,Micheal,Valentine,Support,North America,MGR-044,2020-10-28,61000.0
+EMP-0534,Steven,Campbell,Sales,North America,MGR-017,2021-11-15,80000.0
+EMP-0535,Wesley,Barnes,Marketing,APAC,MGR-038,2021-08-16,94000.0
+EMP-0536,Lisa,Solis,Engineering,APAC,MGR-013,2020-09-08,82000.0
+EMP-0537,Monique,Williams,Sales,EMEA,MGR-008,2020-08-02,81000.0
+EMP-0538,Morgan,Spencer,Engineering,APAC,MGR-015,2022-01-16,64000.0
+EMP-0539,Jennifer,Black,Sales,APAC,MGR-010,2020-06-08,64000.0
+EMP-0540,Justin,Hines,Engineering,EMEA,MGR-010,2020-07-12,75000.0
+EMP-0541,Shannon,Palmer,Sales,North America,MGR-004,2021-02-27,65000.0
+EMP-0542,Samuel,Potts,Engineering,North America,MGR-020,2023-07-14,90000.0
+EMP-0543,Lisa,Wilkerson,Sales,APAC,MGR-048,2020-12-10,72000.0
+EMP-0544,Anthony,Brown,Engineering,APAC,MGR-019,2023-12-16,65000.0
+EMP-0545,Nathaniel,Hughes,Support,EMEA,MGR-008,2022-02-18,90000.0
+EMP-0546,Nicholas,Johnson,Marketing,EMEA,MGR-045,2020-05-06,59000.0
+EMP-0547,Cory,Espinoza,Support,EMEA,MGR-045,2023-12-16,75000.0
+EMP-0548,Lacey,Taylor,Sales,EMEA,MGR-018,2021-06-04,66000.0
+EMP-0549,Samantha,Kennedy,Sales,APAC,MGR-035,2021-03-21,111000.0
+EMP-0550,Dominic,Thornton,Support,EMEA,MGR-029,2023-07-15,75000.0
+EMP-0551,Christina,Bullock,Engineering,North America,MGR-039,2021-11-27,62000.0
+EMP-0552,Jonathan,Conley,Engineering,North America,MGR-028,2020-01-30,76000.0
+EMP-0553,Shelby,Lynch,Sales,APAC,MGR-021,2022-05-02,72000.0
+EMP-0554,Daniel,Roberts,Sales,APAC,MGR-017,2021-10-19,64000.0
+EMP-0555,David,Allen,Engineering,North America,MGR-006,2021-04-12,90000.0
+EMP-0556,Laura,Bryant,Sales,North America,MGR-044,2022-09-19,84000.0
+EMP-0557,Mary,Porter,Sales,APAC,MGR-038,2020-06-21,79000.0
+EMP-0558,Allen,Robertson,Support,North America,MGR-049,2022-04-12,63000.0
+EMP-0559,Jennifer,Carter,Sales,APAC,MGR-018,2021-01-10,102000.0
+EMP-0560,Christina,Allen,Marketing,APAC,MGR-003,2020-01-03,80000.0
+EMP-0561,Jacob,Barnett,Support,North America,MGR-031,2021-10-09,66000.0
+EMP-0562,Theresa,Jones,Marketing,APAC,MGR-042,2022-03-24,91000.0
+EMP-0563,Amy,Hartman,Sales,EMEA,MGR-018,2022-03-28,77000.0
+EMP-0564,Angela,Myers,Marketing,North America,MGR-038,2022-02-27,89000.0
+EMP-0565,Bradley,Hughes,Engineering,EMEA,MGR-041,2021-12-31,81000.0
+EMP-0566,Jon,Smith,Support,EMEA,MGR-006,2021-08-02,108000.0
+EMP-0567,Carlos,Allen,Sales,EMEA,MGR-023,2023-05-09,60000.0
+EMP-0568,Courtney,Ingram,Support,EMEA,MGR-022,2022-10-17,67000.0
+EMP-0569,Katherine,Anderson,Support,EMEA,MGR-043,2023-02-16,119000.0
+EMP-0570,Amy,Li,Support,North America,MGR-011,2021-07-01,74000.0
+EMP-0571,Maria,Cohen,Sales,EMEA,MGR-027,2020-09-28,58000.0
+EMP-0572,Timothy,White,Support,APAC,MGR-032,2022-12-16,83000.0
+EMP-0573,Bryan,Parsons,Sales,EMEA,MGR-043,2020-07-28,91000.0
+EMP-0574,Benjamin,Harris,Support,EMEA,MGR-049,2021-12-11,73000.0
+EMP-0575,James,Williams,Support,APAC,MGR-003,2023-05-13,47000.0
+EMP-0576,Kyle,Sanders,Engineering,EMEA,MGR-006,2023-12-20,61000.0
+EMP-0577,Amy,King,HR,EMEA,MGR-017,2023-06-20,52000.0
+EMP-0578,Deborah,Mitchell,Support,EMEA,MGR-008,2023-03-16,105000.0
+EMP-0579,Kimberly,Glenn,Engineering,EMEA,MGR-033,2023-09-01,51000.0
+EMP-0580,Joshua,Lloyd,Engineering,North America,MGR-043,2021-05-30,66000.0
+EMP-0581,Pamela,Paul,Marketing,APAC,MGR-030,2021-11-09,83000.0
+EMP-0582,Stephanie,Morgan,Support,EMEA,MGR-004,2023-10-21,56000.0
+EMP-0583,Tyler,Jimenez,Support,North America,MGR-034,2020-10-17,81000.0
+EMP-0584,Laura,Adams,Marketing,EMEA,MGR-040,2023-12-06,65000.0
+EMP-0585,Jessica,Miller,Sales,EMEA,MGR-041,2020-05-08,80000.0
+EMP-0586,Wanda,White,Engineering,EMEA,MGR-049,2022-07-24,71000.0
+EMP-0587,Manuel,Miller,Sales,North America,MGR-014,2021-04-01,73000.0
+EMP-0588,Kenneth,Griffin,Engineering,EMEA,MGR-036,2022-10-23,91000.0
+EMP-0589,Ronald,Norris,Engineering,North America,MGR-019,2023-01-19,58000.0
+EMP-0590,Sergio,Acosta,Engineering,EMEA,MGR-045,2021-06-30,80000.0
+EMP-0591,Michael,Bolton,HR,EMEA,MGR-008,2023-11-17,87000.0
+EMP-0592,Danielle,Moody,Sales,North America,MGR-041,2021-03-02,56000.0
+EMP-0593,Charles,Walsh,Support,APAC,MGR-016,2020-03-30,52000.0
+EMP-0594,William,Brady,Sales,APAC,MGR-011,2021-07-18,71000.0
+EMP-0595,Stephanie,Thomas,Sales,EMEA,MGR-036,2020-09-05,44000.0
+EMP-0596,Erika,Kim,Marketing,North America,MGR-036,2022-08-01,79000.0
+EMP-0597,Carlos,Osborne,Engineering,EMEA,MGR-006,2020-07-15,85000.0
+EMP-0598,Michael,Herring,Support,North America,MGR-008,2021-07-23,54000.0
+EMP-0599,Cassie,Shelton,Sales,EMEA,MGR-008,2020-02-20,88000.0
+EMP-0600,Nathan,Hines,Engineering,APAC,MGR-010,2021-07-30,93000.0
+EMP-0601,Devin,Richardson,Marketing,EMEA,MGR-046,2022-06-10,80000.0
+EMP-0602,Debra,Wright,Marketing,EMEA,MGR-033,2021-05-03,94000.0
+EMP-0603,Anthony,Lopez,Sales,APAC,MGR-018,2020-06-25,70000.0
+EMP-0604,Paul,Hoffman,Sales,EMEA,MGR-031,2022-03-15,67000.0
+EMP-0605,Kimberly,Padilla,Engineering,EMEA,MGR-016,2021-02-10,73000.0
+EMP-0606,Wendy,Mitchell,Marketing,EMEA,MGR-036,2020-11-29,59000.0
+EMP-0607,Yolanda,Gonzalez,Sales,North America,MGR-025,2023-11-24,66000.0
+EMP-0608,Melissa,Hayes,Sales,North America,MGR-039,2020-07-29,75000.0
+EMP-0609,Jennifer,Osborn,HR,APAC,MGR-048,2023-10-28,77000.0
+EMP-0610,Evelyn,Bruce,Marketing,North America,MGR-005,2023-06-13,82000.0
+EMP-0611,Elizabeth,Mckinney,Engineering,EMEA,MGR-050,2021-05-11,43000.0
+EMP-0612,Amber,Vance,Support,EMEA,MGR-022,2022-05-04,119000.0
+EMP-0613,Eric,Mckinney,Sales,APAC,MGR-018,2023-08-15,61000.0
+EMP-0614,Dana,Leon,Support,North America,MGR-019,2022-12-23,85000.0
+EMP-0615,Jeffrey,Galloway,HR,APAC,MGR-020,2022-03-01,79000.0
+EMP-0616,Dominic,Tyler,Engineering,APAC,MGR-038,2023-05-15,65000.0
+EMP-0617,Michael,Armstrong,Marketing,APAC,MGR-032,2020-02-10,83000.0
+EMP-0618,Linda,Arnold,Marketing,North America,MGR-029,2021-12-27,61000.0
+EMP-0619,Nicole,Jones,Marketing,APAC,MGR-031,2022-08-08,75000.0
+EMP-0620,Yvonne,Higgins,Support,EMEA,MGR-022,2021-09-10,105000.0
+EMP-0621,Robert,Ortiz,Marketing,APAC,MGR-049,2022-03-27,68000.0
+EMP-0622,Charles,Compton,Marketing,APAC,MGR-025,2022-06-12,76000.0
+EMP-0623,Charles,Owens,Support,EMEA,MGR-021,2022-09-24,59000.0
+EMP-0624,Melvin,Humphrey,Support,North America,MGR-045,2022-03-14,85000.0
+EMP-0625,Andrea,Matthews,Engineering,North America,MGR-037,2023-04-27,63000.0
+EMP-0626,Tammy,Reynolds,Support,EMEA,MGR-015,2023-04-07,79000.0
+EMP-0627,Miranda,Guerra,HR,EMEA,MGR-003,2023-11-15,90000.0
+EMP-0628,Eric,Martin,Support,EMEA,MGR-048,2022-03-15,71000.0
+EMP-0629,Sarah,Perez,Engineering,EMEA,MGR-046,2021-05-16,83000.0
+EMP-0630,Patty,Singleton,Engineering,EMEA,MGR-025,2022-03-17,80000.0
+EMP-0631,James,Huber,Sales,APAC,MGR-042,2021-01-24,91000.0
+EMP-0632,David,Turner,Support,North America,MGR-032,2021-03-02,84000.0
+EMP-0633,Clarence,Davidson,Support,North America,MGR-009,2022-04-08,94000.0
+EMP-0634,Shelly,Moore,Sales,APAC,MGR-038,2022-07-08,71000.0
+EMP-0635,Claudia,Winters,Engineering,EMEA,MGR-007,2022-10-20,56000.0
+EMP-0636,Megan,Elliott,Support,EMEA,MGR-007,2021-06-08,50000.0
+EMP-0637,Michelle,Miller,Engineering,APAC,MGR-030,2023-07-05,52000.0
+EMP-0638,Kelli,Baker,Engineering,North America,MGR-047,2022-09-23,70000.0
+EMP-0639,Katie,Butler,Sales,North America,MGR-027,2020-11-23,78000.0
+EMP-0640,Anthony,Small,Support,APAC,MGR-010,2022-09-19,64000.0
+EMP-0641,Keith,Frye,Support,North America,MGR-031,2022-04-27,41000.0
+EMP-0642,John,Aguirre,Marketing,EMEA,MGR-022,2022-01-20,65000.0
+EMP-0643,Kenneth,Jones,Engineering,APAC,MGR-045,2021-09-22,68000.0
+EMP-0644,Eric,Perry,Sales,EMEA,MGR-042,2020-04-03,75000.0
+EMP-0645,James,Lawson,Engineering,North America,MGR-022,2021-12-22,97000.0
+EMP-0646,Michelle,Flores,Engineering,APAC,MGR-035,2021-04-30,48000.0
+EMP-0647,Michael,Ross,Support,EMEA,MGR-021,2023-08-30,85000.0
+EMP-0648,Mitchell,Hoffman,Support,APAC,MGR-046,2023-03-27,84000.0
+EMP-0649,John,Martinez,HR,EMEA,MGR-035,2021-05-10,71000.0
+EMP-0650,John,Davis,Marketing,North America,MGR-040,2021-11-29,81000.0
+EMP-0651,Sonia,Lin,Sales,North America,MGR-016,2021-03-26,72000.0
+EMP-0652,John,Grimes,Sales,APAC,MGR-044,2021-10-11,83000.0
+EMP-0653,Lisa,Peck,Engineering,EMEA,MGR-015,2020-09-05,62000.0
+EMP-0654,Larry,Hines,Sales,APAC,MGR-006,2023-01-25,60000.0
+EMP-0655,Wendy,Owens,Marketing,EMEA,MGR-007,2022-02-13,46000.0
+EMP-0656,Kyle,Johnson,Support,APAC,MGR-046,2023-09-27,81000.0
+EMP-0657,William,Levy,Support,North America,MGR-029,2021-09-02,66000.0
+EMP-0658,Brandy,Williams,Sales,North America,MGR-045,2020-11-30,51000.0
+EMP-0659,Troy,Khan,Sales,EMEA,MGR-002,2021-03-13,60000.0
+EMP-0660,Emily,Mitchell,Engineering,North America,MGR-021,2022-10-13,83000.0
+EMP-0661,Melanie,Jordan,Support,North America,MGR-019,2020-01-13,77000.0
+EMP-0662,Joseph,Diaz,Sales,EMEA,MGR-024,2023-10-02,61000.0
+EMP-0663,Michael,Morales,HR,EMEA,MGR-010,2021-09-18,96000.0
+EMP-0664,Anna,Cox,Engineering,North America,MGR-034,2022-06-04,74000.0
+EMP-0665,Charles,Gordon,Sales,EMEA,MGR-037,2021-03-24,82000.0
+EMP-0666,Andrea,Bryan,Support,APAC,MGR-012,2023-04-02,77000.0
+EMP-0667,Erin,Wilson,Marketing,North America,MGR-012,2022-08-26,71000.0
+EMP-0668,Phillip,Norton,Sales,North America,MGR-040,2020-05-30,81000.0
+EMP-0669,Angela,Diaz,Support,EMEA,MGR-040,2021-06-10,92000.0
+EMP-0670,James,Hicks,Marketing,APAC,MGR-016,2020-08-12,70000.0
+EMP-0671,Billy,Williams,Engineering,EMEA,MGR-038,2022-02-15,86000.0
+EMP-0672,Mason,Wells,Sales,North America,MGR-015,2023-01-13,64000.0
+EMP-0673,Eduardo,Barry,Marketing,EMEA,MGR-041,2021-12-10,102000.0
+EMP-0674,Mark,Austin,Sales,EMEA,MGR-030,2020-08-05,63000.0
+EMP-0675,Phillip,Jensen,Support,EMEA,MGR-043,2020-09-09,108000.0
+EMP-0676,Kevin,Rogers,Sales,North America,MGR-030,2023-08-01,56000.0
+EMP-0677,William,Burns,Support,EMEA,MGR-044,2023-07-10,70000.0
+EMP-0678,Kevin,Cabrera,Sales,APAC,MGR-011,2022-05-24,82000.0
+EMP-0679,Mark,Rodriguez,Sales,North America,MGR-029,2021-07-26,93000.0
+EMP-0680,Brandy,Robles,Engineering,EMEA,MGR-038,2021-10-09,99000.0
+EMP-0681,Monica,Soto,Sales,EMEA,MGR-041,2023-01-31,97000.0
+EMP-0682,Thomas,Coffey,Engineering,EMEA,MGR-045,2022-07-16,50000.0
+EMP-0683,Teresa,Lane,HR,EMEA,MGR-030,2023-05-01,81000.0
+EMP-0684,Jennifer,Silva,Engineering,EMEA,MGR-013,2020-12-19,63000.0
+EMP-0685,Alexandria,Griffith,Engineering,EMEA,MGR-031,2020-09-21,90000.0
+EMP-0686,Maureen,Hernandez,HR,North America,MGR-016,2023-04-18,92000.0
+EMP-0687,John,Armstrong,Sales,EMEA,MGR-037,2022-11-23,80000.0
+EMP-0688,Daniel,Smith,Engineering,EMEA,MGR-037,2022-12-24,67000.0
+EMP-0689,Robert,Gutierrez,Sales,EMEA,MGR-045,2021-05-02,58000.0
+EMP-0690,Robert,Hampton,Engineering,EMEA,MGR-002,2020-11-12,64000.0
+EMP-0691,Thomas,Charles,Sales,APAC,MGR-026,2023-11-30,64000.0
+EMP-0692,Bryan,Taylor,Marketing,EMEA,MGR-001,2023-02-03,76000.0
+EMP-0693,Ann,Bolton,Sales,APAC,MGR-044,2020-11-18,90000.0
+EMP-0694,Alicia,Edwards,Support,APAC,MGR-004,2022-01-13,77000.0
+EMP-0695,Steve,Patel,Engineering,APAC,MGR-048,2020-09-26,57000.0
+EMP-0696,Michael,Ingram,Support,EMEA,MGR-019,2022-04-28,56000.0
+EMP-0697,Erin,Lara,HR,North America,MGR-039,2023-01-24,85000.0
+EMP-0698,Chelsea,Lee,Support,EMEA,MGR-015,2021-02-14,104000.0
+EMP-0699,Joshua,Evans,Engineering,APAC,MGR-013,2021-01-17,76000.0
+EMP-0700,Kellie,Bush,HR,APAC,MGR-017,2021-04-07,65000.0
+EMP-0701,Janet,Stewart,Sales,APAC,MGR-049,2022-12-08,60000.0
+EMP-0702,Ann,Michael,Engineering,APAC,MGR-050,2021-06-25,84000.0
+EMP-0703,Joshua,Martinez,Sales,APAC,MGR-044,2023-01-26,99000.0
+EMP-0704,Amy,Huang,Sales,North America,MGR-041,2022-11-17,70000.0
+EMP-0705,Loretta,Blevins,Support,North America,MGR-041,2021-09-04,67000.0
+EMP-0706,Dwayne,Williams,Sales,APAC,MGR-003,2023-06-03,54000.0
+EMP-0707,Christian,Bradshaw,HR,EMEA,MGR-029,2023-01-14,76000.0
+EMP-0708,Jonathan,Mendoza,Marketing,North America,MGR-038,2022-10-16,87000.0
+EMP-0709,Maria,Nelson,Engineering,EMEA,MGR-047,2020-11-09,64000.0
+EMP-0710,Heather,Taylor,Support,North America,MGR-006,2022-05-23,78000.0
+EMP-0711,Joyce,Allen,Sales,EMEA,MGR-021,2022-08-14,83000.0
+EMP-0712,Elizabeth,Schmidt,Support,APAC,MGR-027,2020-03-19,84000.0
+EMP-0713,Jesse,Garcia,Sales,North America,MGR-013,2022-09-18,59000.0
+EMP-0714,Jennifer,Garcia,Engineering,North America,MGR-035,2021-05-28,62000.0
+EMP-0715,Derrick,Oconnell,Sales,EMEA,MGR-034,2023-04-12,76000.0
+EMP-0716,Eric,Delgado,Sales,APAC,MGR-018,2023-12-14,86000.0
+EMP-0717,Natalie,Woods,Engineering,North America,MGR-017,2023-09-30,107000.0
+EMP-0718,Katelyn,Mitchell,Engineering,EMEA,MGR-019,2020-11-05,58000.0
+EMP-0719,Debbie,Velez,Marketing,APAC,MGR-022,2021-03-19,79000.0
+EMP-0720,Denise,Hall,Marketing,North America,MGR-030,2020-05-18,75000.0
+EMP-0721,Jennifer,Zuniga,Sales,North America,MGR-010,2023-02-21,68000.0
+EMP-0722,Sandra,Butler,Marketing,North America,MGR-044,2023-11-19,92000.0
+EMP-0723,Gregory,Gillespie,Marketing,APAC,MGR-044,2023-07-25,84000.0
+EMP-0724,Randy,Simpson,Sales,EMEA,MGR-036,2023-07-22,84000.0
+EMP-0725,Kaitlyn,Brennan,Sales,EMEA,MGR-006,2023-12-25,57000.0
+EMP-0726,Nancy,Smith,Support,EMEA,MGR-001,2021-03-25,70000.0
+EMP-0727,Carrie,Hebert,Sales,EMEA,MGR-035,2022-06-01,76000.0
+EMP-0728,Justin,Hays,Marketing,North America,MGR-030,2021-06-04,78000.0
+EMP-0729,Alice,Small,Sales,EMEA,MGR-044,2022-04-23,112000.0
+EMP-0730,Melissa,Mcdonald,Support,APAC,MGR-044,2020-07-27,70000.0
+EMP-0731,Lisa,Rivera,Sales,EMEA,MGR-038,2020-10-26,37000.0
+EMP-0732,Stephen,Scott,Sales,EMEA,MGR-041,2023-02-09,76000.0
+EMP-0733,Alexis,Rogers,Engineering,EMEA,MGR-007,2020-10-16,83000.0
+EMP-0734,Ashley,Todd,Engineering,APAC,MGR-015,2021-04-03,76000.0
+EMP-0735,Cheryl,Fowler,Sales,EMEA,MGR-002,2020-09-29,32000.0
+EMP-0736,Margaret,Robertson,Sales,APAC,MGR-036,2021-09-21,79000.0
+EMP-0737,Richard,Davis,Support,EMEA,MGR-040,2020-05-14,83000.0
+EMP-0738,Thomas,Boyle,Support,North America,MGR-042,2020-08-06,56000.0
+EMP-0739,Jose,Young,Sales,North America,MGR-041,2020-01-11,65000.0
+EMP-0740,Joseph,Rivera,HR,EMEA,MGR-045,2023-03-16,74000.0
+EMP-0741,Jennifer,Smith,Sales,EMEA,MGR-042,2022-06-23,67000.0
+EMP-0742,Michael,Young,Sales,EMEA,MGR-008,2022-10-12,69000.0
+EMP-0743,David,Parker,Sales,North America,MGR-003,2022-11-03,80000.0
+EMP-0744,Gina,Leblanc,Sales,North America,MGR-020,2021-09-21,66000.0
+EMP-0745,Jade,Collins,Engineering,EMEA,MGR-008,2023-10-11,52000.0
+EMP-0746,Danielle,Shepard,Support,North America,MGR-016,2020-07-01,89000.0
+EMP-0747,Christina,Robinson,Engineering,APAC,MGR-009,2021-07-24,59000.0
+EMP-0748,Timothy,Gibson,Marketing,EMEA,MGR-030,2020-07-26,72000.0
+EMP-0749,Nathaniel,Miles,Engineering,EMEA,MGR-043,2022-07-29,67000.0
+EMP-0750,Thomas,Medina,Engineering,APAC,MGR-045,2023-11-18,57000.0
+EMP-0751,Margaret,Gill,Marketing,APAC,MGR-027,2022-10-28,88000.0
+EMP-0752,Karen,Marks,Sales,APAC,MGR-048,2022-11-22,86000.0
+EMP-0753,Alicia,Rice,Engineering,APAC,MGR-010,2020-05-07,69000.0
+EMP-0754,Christian,Elliott,Sales,EMEA,MGR-042,2021-07-16,75000.0
+EMP-0755,Maria,Leach,Support,North America,MGR-032,2020-04-05,77000.0
+EMP-0756,Ashley,Hernandez,Sales,APAC,MGR-027,2020-11-10,58000.0
+EMP-0757,Melissa,Ramos,Sales,EMEA,MGR-003,2021-05-24,60000.0
+EMP-0758,Jamie,Aguilar,Engineering,APAC,MGR-024,2022-11-22,75000.0
+EMP-0759,Rachel,Griffin,Engineering,North America,MGR-029,2020-05-21,57000.0
+EMP-0760,Shawn,Palmer,Sales,EMEA,MGR-016,2020-03-27,74000.0
+EMP-0761,Anne,Hansen,Support,EMEA,MGR-007,2021-12-10,40000.0
+EMP-0762,Lindsay,Cummings,Engineering,APAC,MGR-024,2022-11-11,68000.0
+EMP-0763,Jonathan,Smith,Engineering,APAC,MGR-042,2021-09-07,79000.0
+EMP-0764,Beth,Williams,HR,EMEA,MGR-004,2020-12-04,78000.0
+EMP-0765,Isabella,Weaver,Support,EMEA,MGR-018,2021-06-19,92000.0
+EMP-0766,Sarah,Jones,Engineering,North America,MGR-008,2020-04-03,58000.0
+EMP-0767,Thomas,Mitchell,Sales,EMEA,MGR-006,2023-12-21,74000.0
+EMP-0768,Kayla,Cannon,Support,APAC,MGR-014,2020-10-06,89000.0
+EMP-0769,Debbie,Fisher,Support,APAC,MGR-041,2023-02-06,79000.0
+EMP-0770,Patrick,Kane,Support,APAC,MGR-002,2023-10-16,87000.0
+EMP-0771,Nicholas,Miller,Sales,North America,MGR-022,2023-11-09,57000.0
+EMP-0772,Nancy,Anderson,Support,North America,MGR-009,2022-10-25,76000.0
+EMP-0773,Michael,White,Engineering,APAC,MGR-014,2023-08-29,72000.0
+EMP-0774,Phillip,Anderson,Sales,North America,MGR-049,2022-04-14,76000.0
+EMP-0775,Mary,Avila,Support,APAC,MGR-014,2020-12-11,63000.0
+EMP-0776,Steven,Ball,Sales,APAC,MGR-014,2021-04-08,94000.0
+EMP-0777,Amanda,Morrow,Sales,North America,MGR-022,2021-10-20,85000.0
+EMP-0778,Steven,Moore,Sales,North America,MGR-039,2021-01-19,92000.0
+EMP-0779,Sharon,Hardy,Sales,North America,MGR-018,2020-10-19,79000.0
+EMP-0780,Antonio,Keller,Support,North America,MGR-009,2020-06-24,64000.0
+EMP-0781,Katie,Stephenson,Sales,APAC,MGR-017,2022-08-13,84000.0
+EMP-0782,John,Jones,Engineering,North America,MGR-008,2020-01-25,95000.0
+EMP-0783,Arthur,Harper,Sales,APAC,MGR-002,2022-07-11,79000.0
+EMP-0784,Monica,Sanchez,Support,North America,MGR-001,2022-12-28,61000.0
+EMP-0785,Richard,Young,Support,EMEA,MGR-016,2020-03-09,66000.0
+EMP-0786,Karen,Parsons,HR,APAC,MGR-021,2020-12-03,76000.0
+EMP-0787,William,Roberts,Support,North America,MGR-012,2020-08-05,97000.0
+EMP-0788,Sabrina,Johnston,Support,EMEA,MGR-004,2023-06-21,102000.0
+EMP-0789,Carla,Chambers,Marketing,North America,MGR-048,2022-06-16,62000.0
+EMP-0790,Joel,Walter,Sales,EMEA,MGR-034,2021-05-13,80000.0
+EMP-0791,Adriana,Gutierrez,Marketing,North America,MGR-048,2022-10-22,66000.0
+EMP-0792,Bruce,Fry,Engineering,North America,MGR-031,2021-03-03,56000.0
+EMP-0793,Jill,Thompson,Engineering,EMEA,MGR-050,2023-09-28,84000.0
+EMP-0794,Ronald,Simpson,Sales,EMEA,MGR-033,2022-11-20,77000.0
+EMP-0795,Shelly,Powers,Sales,APAC,MGR-007,2021-06-19,78000.0
+EMP-0796,Alice,Horton,Support,EMEA,MGR-033,2023-05-05,73000.0
+EMP-0797,Edward,Bennett,Sales,North America,MGR-040,2021-09-26,80000.0
+EMP-0798,Amanda,Allen,Marketing,North America,MGR-047,2023-03-17,79000.0
+EMP-0799,Kevin,Zimmerman,Marketing,APAC,MGR-034,2020-12-16,88000.0
+EMP-0800,Steven,Brown,Engineering,EMEA,MGR-030,2023-06-05,63000.0

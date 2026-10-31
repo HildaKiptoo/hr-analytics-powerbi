@@ -1,0 +1,103 @@
+Case_ID,Employee_ID,Start_Date,End_Date,Reason_Category,Status,Outcome
+PIP-0001,EMP-0014,2022-12-09,2023-03-09,Sales Targets,Completed,Retained
+PIP-0002,EMP-0019,2023-02-17,2023-05-18,Sales Targets,Completed,Resigned
+PIP-0003,EMP-0026,2023-09-04,2023-12-03,Sales Targets,Completed,Resigned
+PIP-0004,EMP-0036,2020-08-19,2020-09-18,Attendance,Completed,Terminated
+PIP-0005,EMP-0056,2023-05-14,2023-08-12,Sales Targets,Completed,Retained
+PIP-0006,EMP-0058,2021-12-19,2022-03-19,Sales Targets,Completed,Retained
+PIP-0007,EMP-0063,2022-08-02,2022-10-31,Sales Targets,Completed,Retained
+PIP-0008,EMP-0079,2023-08-21,2023-11-19,Quality of Work,Completed,Retained
+PIP-0009,EMP-0084,2023-08-08,2023-09-07,Sales Targets,Completed,Resigned
+PIP-0010,EMP-0091,2020-11-23,2021-02-21,Sales Targets,Completed,Terminated
+PIP-0011,EMP-0095,2021-02-15,2021-04-16,Sales Targets,Completed,Terminated
+PIP-0012,EMP-0099,2023-10-24,2024-01-22,Sales Targets,Completed,Retained
+PIP-0013,EMP-0103,2023-02-04,2023-03-06,Sales Targets,Completed,Retained
+PIP-0014,EMP-0115,2023-10-22,2024-01-20,Quality of Work,Completed,Retained
+PIP-0015,EMP-0116,2023-07-12,2023-10-10,Sales Targets,Completed,Resigned
+PIP-0016,EMP-0134,2023-10-20,2024-01-18,Sales Targets,Completed,Retained
+PIP-0017,EMP-0138,2021-09-16,2021-11-15,Sales Targets,Completed,Terminated
+PIP-0018,EMP-0144,2023-01-17,2023-03-18,Quality of Work,Completed,Terminated
+PIP-0019,EMP-0146,2023-06-27,2023-08-26,Sales Targets,Completed,Terminated
+PIP-0020,EMP-0160,2023-09-19,2023-12-18,Sales Targets,Completed,Retained
+PIP-0021,EMP-0163,2022-06-12,2022-07-12,Attendance,Completed,Retained
+PIP-0022,EMP-0173,2022-06-10,2022-08-09,Sales Targets,Completed,Terminated
+PIP-0023,EMP-0185,2021-06-18,2021-08-17,Sales Targets,Completed,Retained
+PIP-0024,EMP-0186,2023-10-08,2023-12-07,Sales Targets,Completed,Retained
+PIP-0025,EMP-0191,2023-08-15,2023-11-13,Sales Targets,Completed,Retained
+PIP-0026,EMP-0198,2023-09-12,2023-12-11,Conduct,Completed,Resigned
+PIP-0027,EMP-0201,2023-01-21,2023-04-21,Sales Targets,Completed,Terminated
+PIP-0028,EMP-0203,2021-10-18,2021-12-17,Sales Targets,Completed,Terminated
+PIP-0029,EMP-0207,2021-10-13,2021-11-12,Quality of Work,Completed,Terminated
+PIP-0030,EMP-0208,2023-07-04,2023-08-03,Quality of Work,Completed,Resigned
+PIP-0031,EMP-0213,2023-08-02,2023-10-31,Quality of Work,Completed,Retained
+PIP-0032,EMP-0214,2022-02-21,2022-05-22,Attendance,Completed,Retained
+PIP-0033,EMP-0238,2021-03-20,2021-04-19,Conduct,Completed,Terminated
+PIP-0034,EMP-0243,2022-11-26,2022-12-26,Sales Targets,Completed,Retained
+PIP-0035,EMP-0249,2023-06-05,2023-08-04,Sales Targets,Completed,Terminated
+PIP-0036,EMP-0250,2023-07-04,2023-10-02,Sales Targets,Completed,Terminated
+PIP-0037,EMP-0254,2021-03-26,2021-04-25,Sales Targets,Completed,Retained
+PIP-0038,EMP-0275,2022-06-10,2022-09-08,Conduct,Completed,Resigned
+PIP-0039,EMP-0281,2023-04-20,2023-07-19,Quality of Work,Completed,Resigned
+PIP-0040,EMP-0294,2021-12-12,2022-03-12,Sales Targets,Completed,Retained
+PIP-0041,EMP-0296,2023-10-22,2024-01-20,Conduct,Completed,Retained
+PIP-0042,EMP-0299,2023-09-29,2023-12-28,Sales Targets,Completed,Retained
+PIP-0043,EMP-0309,2023-03-30,2023-05-29,Sales Targets,Completed,Terminated
+PIP-0044,EMP-0310,2023-07-27,2023-10-25,Quality of Work,Completed,Resigned
+PIP-0045,EMP-0312,2023-01-06,2023-04-06,Sales Targets,Completed,Retained
+PIP-0046,EMP-0320,2022-07-16,2022-08-15,Conduct,Completed,Terminated
+PIP-0047,EMP-0324,2022-05-07,2022-08-05,Sales Targets,Completed,Retained
+PIP-0048,EMP-0326,2023-09-27,2023-12-26,Quality of Work,Completed,Terminated
+PIP-0049,EMP-0329,2022-05-23,2022-08-21,Sales Targets,Completed,Retained
+PIP-0050,EMP-0333,2023-03-19,2023-05-18,Sales Targets,Completed,Terminated
+PIP-0051,EMP-0336,2022-12-08,2023-01-07,Sales Targets,Completed,Resigned
+PIP-0052,EMP-0350,2020-05-10,2020-06-09,Sales Targets,Completed,Terminated
+PIP-0053,EMP-0355,2022-09-16,2022-12-15,Sales Targets,Completed,Terminated
+PIP-0054,EMP-0356,2023-04-19,2023-05-19,Sales Targets,Completed,Retained
+PIP-0055,EMP-0362,2023-09-03,2023-10-03,Attendance,Completed,Terminated
+PIP-0056,EMP-0380,2023-09-04,2023-11-03,Sales Targets,Completed,Terminated
+PIP-0057,EMP-0382,2020-09-24,2020-10-24,Sales Targets,Completed,Terminated
+PIP-0058,EMP-0393,2023-10-18,2023-11-17,Attendance,Completed,Terminated
+PIP-0059,EMP-0399,2023-04-03,2023-07-02,Sales Targets,Completed,Retained
+PIP-0060,EMP-0401,2022-10-31,2022-12-30,Sales Targets,Completed,Terminated
+PIP-0061,EMP-0411,2021-12-05,2022-01-04,Sales Targets,Completed,Retained
+PIP-0062,EMP-0420,2023-08-27,2023-11-25,Conduct,Completed,Terminated
+PIP-0063,EMP-0438,2023-02-11,2023-03-13,Quality of Work,Completed,Retained
+PIP-0064,EMP-0441,2022-07-10,2022-09-08,Sales Targets,Completed,Resigned
+PIP-0065,EMP-0457,2021-10-28,2021-12-27,Sales Targets,Completed,Retained
+PIP-0066,EMP-0459,2022-06-11,2022-08-10,Sales Targets,Completed,Retained
+PIP-0067,EMP-0467,2023-10-20,2023-12-19,Quality of Work,Completed,Retained
+PIP-0068,EMP-0472,2023-05-10,2023-07-09,Sales Targets,Completed,Terminated
+PIP-0069,EMP-0473,2022-07-26,2022-10-24,Sales Targets,Completed,Terminated
+PIP-0070,EMP-0479,2023-10-16,2023-11-15,Sales Targets,Completed,Retained
+PIP-0071,EMP-0480,2022-05-09,2022-08-07,Sales Targets,Completed,Retained
+PIP-0072,EMP-0485,2022-03-31,2022-05-30,Conduct,Completed,Retained
+PIP-0073,EMP-0494,2023-10-29,2024-01-27,Sales Targets,Completed,Resigned
+PIP-0074,EMP-0509,2021-06-12,2021-08-11,Sales Targets,Completed,Terminated
+PIP-0075,EMP-0513,2023-07-26,2023-10-24,Sales Targets,Completed,Retained
+PIP-0076,EMP-0531,2022-06-27,2022-08-26,Sales Targets,Completed,Resigned
+PIP-0077,EMP-0549,2023-09-25,2023-10-25,Sales Targets,Completed,Retained
+PIP-0078,EMP-0565,2022-09-17,2022-10-17,Sales Targets,Completed,Retained
+PIP-0079,EMP-0585,2021-03-05,2021-04-04,Sales Targets,Completed,Terminated
+PIP-0080,EMP-0592,2023-01-28,2023-02-27,Sales Targets,Completed,Retained
+PIP-0081,EMP-0629,2022-11-15,2023-02-13,Quality of Work,Completed,Retained
+PIP-0082,EMP-0634,2023-01-25,2023-02-24,Sales Targets,Completed,Terminated
+PIP-0083,EMP-0641,2023-03-14,2023-05-13,Quality of Work,Completed,Resigned
+PIP-0084,EMP-0653,2023-10-22,2023-12-21,Sales Targets,Completed,Retained
+PIP-0085,EMP-0677,2023-10-29,2024-01-27,Sales Targets,Completed,Terminated
+PIP-0086,EMP-0686,2023-09-27,2023-11-26,Sales Targets,Completed,Terminated
+PIP-0087,EMP-0689,2021-08-17,2021-09-16,Sales Targets,Completed,Retained
+PIP-0088,EMP-0700,2022-02-10,2022-04-11,Conduct,Completed,Terminated
+PIP-0089,EMP-0702,2021-12-27,2022-03-27,Sales Targets,Completed,Terminated
+PIP-0090,EMP-0713,2023-01-02,2023-02-01,Sales Targets,Completed,Terminated
+PIP-0091,EMP-0718,2021-02-10,2021-04-11,Conduct,Completed,Retained
+PIP-0092,EMP-0721,2023-09-10,2023-11-09,Sales Targets,Completed,Resigned
+PIP-0093,EMP-0727,2023-07-02,2023-08-01,Sales Targets,Completed,Retained
+PIP-0094,EMP-0735,2023-04-11,2023-07-10,Sales Targets,Completed,Retained
+PIP-0095,EMP-0743,2023-09-01,2023-10-01,Sales Targets,Completed,Terminated
+PIP-0096,EMP-0744,2022-02-24,2022-03-26,Sales Targets,Completed,Terminated
+PIP-0097,EMP-0756,2022-05-27,2022-06-26,Sales Targets,Completed,Retained
+PIP-0098,EMP-0774,2022-12-23,2023-01-22,Sales Targets,Completed,Terminated
+PIP-0099,EMP-0777,2023-08-22,2023-09-21,Sales Targets,Completed,Retained
+PIP-0100,EMP-0780,2023-10-24,2023-11-23,Quality of Work,Completed,Retained
+PIP-0101,EMP-0783,2023-02-19,2023-03-21,Sales Targets,Completed,Resigned
+PIP-0102,EMP-0785,2021-05-01,2021-06-30,Quality of Work,Completed,Retained
