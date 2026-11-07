@@ -1,6 +1,6 @@
 # HR Analytics & PIP Tracker (PowerBI)
 
-![Dashboard overview](images/image_3f6153.png)
+![Dashboard overview](images/dashboard-overview.png)
 
 ## 📌 Executive Summary
 **The Business Problem:** HR teams need to know whether Performance Improvement Plans (PIPs) are working. Which departments and regions place the most employees on PIPs? How often do PIPs end in a retained, resigned, or terminated employee? Without a single view, these answers sit in separate spreadsheets and are slow to produce.
@@ -26,7 +26,7 @@ Real HR data is not shared publicly, so the Python generator plants realistic pa
 3. **Milestones predict outcomes:** The data model reveals that employees who are retained meet most checkpoints, while those who leave miss most of them.
 4. **Q4 rating dip:** Performance review ratings consistently trend lower between October and December.
 
-![Detailed Dashboard Views](images/image_3f611c.png)
+![Detailed Dashboard Views](images/data-model.png)
 
 ---
 
