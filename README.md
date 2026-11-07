@@ -38,7 +38,6 @@ Real HR data is not shared publicly, so the Python generator plants realistic pa
 | `data_generator_for_HR.py` | Python script that generates the reproducible synthetic datasets |
 | `Sample Employee Data/` | Sample CSV output from the generator, used as the report’s source |
 
-*Note: A screen recording walking through the dashboard functionality will be added to this repository soon.*
 
 ---
 
